@@ -1,0 +1,5 @@
+numpy
+pyopencl
+PyQt5
+matplotlib
+
