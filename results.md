@@ -8,6 +8,7 @@ The results showcase both the *visual complexity* of fractals and the *performan
 ## 🔹 Mandelbrot Set
 
 ### `mandelbrot_default.png`
+<img width="1479" height="891" alt="Image" src="https://github.com/user-attachments/assets/f4260aeb-c19d-4c77-8c3b-c85db1402e01" />
 - **Description:** Classic Mandelbrot set rendered at 1000×1000 resolution with 500 iterations.  
 - **Why it matters:** This is the baseline visualization recruiters expect — instantly recognizable and a good demonstration of correctness.  
 
