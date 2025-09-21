@@ -40,19 +40,19 @@ See results.md for more specific information.
 Sample images include:  
 - Default Mandelbrot
 
-- <img width="723" height="723" alt="mandelbrot_default" src="https://github.com/user-attachments/assets/afef228d-d5c9-45da-9608-5ece110bfc50" />
+<img width="723" height="723" alt="mandelbrot_default" src="https://github.com/user-attachments/assets/afef228d-d5c9-45da-9608-5ece110bfc50" />
 
 - Zoomed-in Mandelbrot regions  
 
-- <img width="723" height="723" alt="mandelbrot_zoom1" src="https://github.com/user-attachments/assets/f08b0ed0-87fb-454e-8013-e0af83408850" />
+<img width="723" height="723" alt="mandelbrot_zoom1" src="https://github.com/user-attachments/assets/f08b0ed0-87fb-454e-8013-e0af83408850" />
 
 - Julia sets with different parameters  
 
-- <img width="723" height="723" alt="julia_c_-0 7+0 27015i" src="https://github.com/user-attachments/assets/da90d1a2-d21b-4ad1-8a9c-7b6b70dd20b5" />
+<img width="723" height="723" alt="julia_c_-0 7+0 27015i" src="https://github.com/user-attachments/assets/da90d1a2-d21b-4ad1-8a9c-7b6b70dd20b5" />
 
 - Benchmark plots comparing CPU vs GPU  
 
-- <img width="923" height="709" alt="performance_plot" src="https://github.com/user-attachments/assets/66ad1263-cb22-44ec-b310-deff066ccaa5" />
+<img width="923" height="709" alt="performance_plot" src="https://github.com/user-attachments/assets/66ad1263-cb22-44ec-b310-deff066ccaa5" />
 
 ---
 
