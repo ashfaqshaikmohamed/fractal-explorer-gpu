@@ -5,7 +5,7 @@ This project highlights how **parallel programming** can transform computational
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 Fractals like the Mandelbrot and Julia sets are beautiful but computationally expensive.  
 Each pixel in the image requires hundreds or thousands of iterations to determine whether it belongs to the fractal set.  
@@ -17,7 +17,7 @@ This project leverages:
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 - Showcase **GPU programming skills** using OpenCL.  
 - Demonstrate how **parallel computing** delivers real-world performance gains (~20× faster than CPU).  
@@ -25,7 +25,7 @@ This project leverages:
 
 ---
 
-## 🔑 Features
+## Features
 
 - Render **Mandelbrot and Julia sets** at arbitrary resolutions.  
 - Support for **zooming** into regions of interest (e.g., Seahorse Valley).  
@@ -34,7 +34,7 @@ This project leverages:
 
 ---
 
-## 📊 Results
+## Results
 
 See results.md for more specific information.  
 Sample images include:  
@@ -56,7 +56,7 @@ Sample images include:
 
 ---
 
-## 🌍 Potential Applications
+## Potential Applications
 
 - **Education:** Teaching parallel programming, numerical stability, and fractals in computer science.  
 - **Visualization:** Generating mathematical art for creative industries.  
@@ -65,7 +65,7 @@ Sample images include:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python 3**  
 - **OpenCL (via PyOpenCL)**  
@@ -74,7 +74,7 @@ Sample images include:
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 git clone https://github.com/yourusername/gpu-fractal-explorer.git
