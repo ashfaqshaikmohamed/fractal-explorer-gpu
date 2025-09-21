@@ -8,16 +8,18 @@ The results showcase both the *visual complexity* of fractals and the *performan
 ## 🔹 Mandelbrot Set
 
 ### `mandelbrot_default.png`
-<img width="1479" height="891" alt="Image" src="https://github.com/user-attachments/assets/f4260aeb-c19d-4c77-8c3b-c85db1402e01" />
+<img width="723" height="723" alt="Image" src="https://github.com/user-attachments/assets/60abcc2f-2438-4742-8153-211276dea3ad" />
 - **Description:** Classic Mandelbrot set rendered at 1000×1000 resolution with 500 iterations.  
 - **Why it matters:** This is the baseline visualization recruiters expect — instantly recognizable and a good demonstration of correctness.  
 
 ### `mandelbrot_zoom1.png`
+<img width="723" height="723" alt="Image" src="https://github.com/user-attachments/assets/5e42099d-1d87-4f17-a709-be4c76d5fd81" />
 - **Region:** Seahorse Valley (around -0.75, 0.1).  
 - **Description:** A zoomed-in view that reveals intricate spirals and repeating structures.  
 - **Why it matters:** Demonstrates support for interactive zooming and navigation.  
 
 ### `mandelbrot_zoom2.png`
+<img width="376" height="723" alt="Image" src="https://github.com/user-attachments/assets/f1c95fa6-76e6-480c-af51-7fdcea982108" />
 - **Region:** Deeper zoom around (-0.7435, 0.131).  
 - **Description:** Displays ultra-fine fractal details at high iteration counts.  
 - **Why it matters:** Shows numerical stability and rendering precision.  
@@ -27,11 +29,13 @@ The results showcase both the *visual complexity* of fractals and the *performan
 ## 🔹 Julia Sets
 
 ### `julia_c_-0.7_0.27015.png`
+<img width="723" height="723" alt="Image" src="https://github.com/user-attachments/assets/7e7a20bf-0f20-4be0-8d39-4f28f7dc68ac" />
 - **Parameters:** c = -0.7 + 0.27015i  
 - **Description:** A connected Julia set with dendritic structures.  
 - **Why it matters:** Highlights flexibility — the system supports Julia rendering in addition to Mandelbrot.  
 
 ### `julia_c_0.355_0.355.png`
+<img width="723" height="723" alt="Image" src="https://github.com/user-attachments/assets/991f155a-4167-45ea-88c5-53f8e74123aa" />
 - **Parameters:** c = 0.355 + 0.355i  
 - **Description:** A Julia set that demonstrates symmetry and complexity.  
 - **Why it matters:** Reinforces that the app can explore a wide parameter space for different fractals.  
@@ -41,6 +45,7 @@ The results showcase both the *visual complexity* of fractals and the *performan
 ## 🔹 Performance Benchmark
 
 ### `performance_plot.png`
+<img width="923" height="709" alt="Image" src="https://github.com/user-attachments/assets/f6d04cd3-400b-416a-a9cf-8405d4da0745" />
 - **Description:** Comparison of CPU vs GPU rendering times at increasing image sizes.  
 - **Key takeaway:** GPU rendering is ~20× faster than the CPU implementation.  
 - **Why it matters:** Shows the tangible benefit of parallel computing and OpenCL optimization.  
